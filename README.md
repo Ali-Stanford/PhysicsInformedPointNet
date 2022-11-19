@@ -1,1 +1,1 @@
-# PhysicsInformedPointNet
+# Physics Informed PointNet (PIPN)
