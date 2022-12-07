@@ -5,7 +5,8 @@
 **Version:** 1.0 <br>
 
 **Citation** <br>
-If you use the code, plesae cite the following journal papers: <br>
+If you use the code, plesae cite the following journal paper: <br>
+
 **[Physics-informed PointNet: A deep learning solver for steady-state incompressible flows and thermal fields on multiple sets of irregular geometries](https://doi.org/10.1016/j.jcp.2022.111510)**
 
 @article{Kashefi2022PIPN, <br>
