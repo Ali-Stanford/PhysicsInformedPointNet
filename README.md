@@ -9,14 +9,14 @@ If you use the code, plesae cite the following journal paper: <br>
 
 **[Physics-informed PointNet: A deep learning solver for steady-state incompressible flows and thermal fields on multiple sets of irregular geometries](https://doi.org/10.1016/j.jcp.2022.111510)**
 
-@article{Kashefi2022PIPN, <br>
-title = {Physics-informed PointNet: A deep learning solver for steady-state incompressible flows and thermal fields on multiple sets of irregular geometries}, <br>
-journal = {Journal of Computational Physics}, <br>
-volume = {468}, <br>
-pages = {111510}, <br>
-year = {2022}, <br>
-issn = {0021-9991}, <br>
-author = {Ali Kashefi and Tapan Mukerji}} <br>
+     @article{Kashefi2022PIPN, 
+       title = {Physics-informed PointNet: A deep learning solver for steady-state incompressible flows and thermal fields on multiple sets of irregular geometries},
+       journal = {Journal of Computational Physics}, 
+       volume = {468}, 
+       pages = {111510}, 
+       year = {2022}, 
+       issn = {0021-9991},
+       author = {Ali Kashefi and Tapan Mukerji}}
 
 
 **Physics-informed PointNet on Wikipedia** <br>
