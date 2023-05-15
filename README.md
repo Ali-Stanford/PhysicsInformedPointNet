@@ -25,7 +25,8 @@ A general description of physics-informed neural networks (PINNs) and its other 
 
 **Physics-informed PointNet Presentation in Machine Learning + X seminars 2022 at Brown University**<br>
 In case of your interest, you might watch the recorded machine learning seminar with the topic of PIPN at Brown University using the following link:<br> 
-[Video Presentation of PIPN at Brown University](https://www.dropbox.com/s/oafbjl6xaihotqa/GMT20220325-155140_Recording_2560x1440.mp4?dl=0)
+[Video Presentation of PIPN at Brown University](https://www.dropbox.com/s/oafbjl6xaihotqa/GMT20220325-155140_Recording_2560x1440.mp4?dl=0) <br>
+[YouTube video](https://www.youtube.com/watch?v=faeHARnPSVE)
 
 
 **Questions?** <br>
