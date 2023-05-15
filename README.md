@@ -1,5 +1,5 @@
 # Physics Informed PointNet (PIPN)
-
+![pic](./Fig1_Revised-1.png)
 ![pic](./Fig_PIPN_Method-1.png)
 
 **Author:** Ali Kashefi (kashefi@stanford.edu)<br>
