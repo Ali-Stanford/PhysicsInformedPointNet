@@ -1,6 +1,7 @@
 # Physics Informed PointNet (PIPN)
-![pic](./Fig1_Revised-1.png)
-![pic](./Fig_PIPN_Method-1.png)
+![pic](./Cylinder1.png)
+![pic](./Cylinder2.png)
+![pic](./Taylor.png)
 
 **Author:** Ali Kashefi (kashefi@stanford.edu)<br>
 **Description:** Implementation of physics-informed PointNet (PIPN) for weakly-supervised learning of incompressible flows and thermal fields on irregular geometries<br>
