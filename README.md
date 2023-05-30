@@ -26,7 +26,7 @@ If you use the code, plesae cite the following journal paper: <br>
 A general description of physics-informed neural networks (PINNs) and its other versions such as PIPN can be found in the following Wikipedia page:<br>
 [Physics-informed PointNet (PIPN) for multiple sets of irregular geometries](https://en.wikipedia.org/wiki/Physics-informed_neural_networks#Physics-informed_PointNet_(PIPN)_for_multiple_sets_of_irregular_geometries)
 
-**Physics-informed PointNet Presentation in Machine Learning + X seminars 2022 at Brown University**<br>
+**Physics-informed PointNet Presentation in Machine Learning + X seminar 2022 at Brown University**<br>
 In case of your interest, you might watch the recorded machine learning seminar with the topic of PIPN at Brown University using the following link:<br> 
 [Video Presentation of PIPN at Brown University](https://www.dropbox.com/s/oafbjl6xaihotqa/GMT20220325-155140_Recording_2560x1440.mp4?dl=0) <br>
 [YouTube Video](https://www.youtube.com/watch?v=faeHARnPSVE)
