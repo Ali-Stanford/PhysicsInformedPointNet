@@ -1,7 +1,7 @@
 # Physics Informed PointNet (PIPN)
 
 ![pic](./Fig1_Revised-1.png)
-![pic](./Fig_PIPN_Method-1.png)
+![pic](./heat0.png)
 ![pic](./heat2.png)
 ![pic](./heat1.png)
 
