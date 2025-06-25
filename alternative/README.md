@@ -46,7 +46,7 @@ wget https://web.stanford.edu/~kashefi/data/HeatTransferData.npy
 
 **Step 6: Run the Script**
 
-Run the script:
+Run the script.
 
 ```bash
 python physics_informed_PointNet.py
