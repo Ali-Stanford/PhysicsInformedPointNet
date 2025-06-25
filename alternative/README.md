@@ -43,3 +43,12 @@ Use the following batch command to download the dataset (a NumPy array, approxim
 ```bash
 wget https://web.stanford.edu/~kashefi/data/HeatTransferData.npy
 ```
+
+**Step 6: Run the Script**
+
+Run the script:
+
+```bash
+python physics_informed_PointNet.py
+```
+
