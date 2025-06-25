@@ -4,8 +4,7 @@
 # Author: Ali Kashefi (kashefi@stanford.edu)
 
 ##### Citation #####
-# If you use the code, please cite the following journal paper: <br>
-
+# If you use the code, please cite the following journal paper:
 # Physics-informed PointNet: A deep learning solver for steady-state incompressible flows and thermal fields on multiple sets of irregular geometries
 # https://doi.org/10.1016/j.jcp.2022.111510
 
