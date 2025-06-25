@@ -4,16 +4,7 @@
 # Author: Ali Kashefi (kashefi@stanford.edu)
 
 ##### Citation #####
-# If you use the code, please cite the following article:
-# "Physics-informed KAN PointNet: Deep learning for simultaneous solutions to inverse problems in incompressible flow on numerous irregular geometries"
-# arXiv link: https://arxiv.org/abs/2504.06327
 
-#@article{kashefi2025PhysicsInformedKANpointnet,
-#title={Physics-informed KAN PointNet: Deep learning for simultaneous solutions to inverse problems in incompressible flow on numerous irregular 
-#geometries},
-#author={Kashefi, Ali and Mukerji, Tapan},
-#journal={arXiv preprint arXiv:2504.06327},
-#year={2025}}
 
 ###### Libraries ######
 import os
